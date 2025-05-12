@@ -1,7 +1,7 @@
 <h1 align="center">Hello👋, I'm Ege Sezginer</h1>
-<h3 align="center">I am a developer who really loves his job!</h3>
+<h3 align="center">I am a developer at IBM who really loves his job!</h3>
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **IBM App Connect ToolKit**
 
 - 💬 Ask me about **C++, Android, Arduino, Solidworks**
 
